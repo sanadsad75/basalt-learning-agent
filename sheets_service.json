@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "basaltlearningagent",
+  "private_key_id": "fa37135b24ce0f4b5d85e297a604dc63205594aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClJmEVZYVCIEn5\nEu8YLWqgslRhZgBjOLbxCJ8WALtiWtmNY3X4EadaOAsiSTopQX2JGbOUdm4Avb+B\n8leIhmrquwYraHwc+g0PgdnF6TmVCmyp86iarmUApsARHQOqKqA9NROb6lvxgZK+\nLuvSfdoHZZO2J0/E3Ll3gWNFJAsmvQhcDY86mmjo14dQgS22oUIoyvRto8UYpkKL\nRJqViNtMXBf1Ruxo7WwbReGS0vsHMYroIK4l1/ppDEpuowAeUFqzwsKGdFfE2xWi\nDpBbGU4n/3ZNpxl++lRnbXjHzD3EBe9IWZn9ICg9/5FkpsB3Wg9Xmx4HIoSwflOT\nLRTElS7DAgMBAAECggEAOo0P0GksxJP0BfVbhUPc0NpIpjtmmcbqvSvkUwWxaZ5y\nEPmZQnjnz0mdUOuLTkMkwa22CEWwnFypf+WueP3G/C+QcWVa018nsD7GOa+FNbz7\nZ4m2VhjMQF3eLHMP8I2qP+kIabe+HzJkFz9FZlwuJ38wzlzDoDTtIFxkGIg9196N\nQpAl2t/d2KO5cNyugB31SU+a10MgIFI6iXjiWPKZCDLp7AoIgCe83++PPZaJ9+id\ntwdijbuFgZOzup8T1KQxoy6b5glgR26PeDId3Zi2NP3rMYVbYf/7QMp4IuGF5e1y\nOk5Z8qcEBt1VhxUIkhmrYc6YPI357uiaZOiMQ/DyKQKBgQDOcLJgMm/E4/cMoGC1\nmNFHUg9HHkEZYmi86SHkfAL7jF35Uz3J4S/XzEr1q+2tHMI1lFZ+m0ZRGAeSo1rf\nCyIBLUhHUOaMtByv+p+oAYHGEIYeRoeHhzws2Q79OgSdSRGgGstwGuHmDZgKpkgv\ndZqebZ0l+uuJtL2KKskutLFGNwKBgQDMzBU/rf0KdSGum9ShGBbPKTmcBkhEhlHZ\n/Ugec6N9gYWggxNz4lDVLJxUylQulkj5J+HsO1xatsbv+0nou5EWtXeHEX1I9SVQ\n5imX9K8Z2amT+J4k+aJD+UR1kTibQLtu8fbf40SsqsD3C0o4Y4Gz4uhoEI2vgygb\n4cCqyqbV1QKBgQC0aXTZ8PoQvZEX7cjWqzip9aL4ag5GWuRhw/Qks+P/ZgpybDbh\niPTAyP7xeFF8Klfnbz2v448uK6vikPRHXHlZQfOar67sZDN177c7oiWBrMspBkZH\nQP5ryz34O43wzvyiSQhlbnjhDhxDolIPd92qeu0NVh4l+Fh0uTOcp7kNPQKBgQCX\npHoLZ/qZFrg1AWAFVL/27zCgLiquysKq5hfTrI6fbRuUCdqKkUaHQnwTcKm6wT8R\ndo2cDSxKY1KU+f31HYXGSeJSmgmpzxOtfm/H+774JiqhzZLUECAtstIVN82xb9IZ\nyYKirzb3n4w4oRx4+n1cxKSQAcnX7wbw9k1iaaH1bQKBgGxggJ/LI9f+a/AbCmPr\nKIHRAkUFn+ikj2SE8OslbGnu2dCxJIxs8dieM6yr+ULalfOHkGwz5NibI/R+5AnF\nLIIGDapq/h8DRm6Dg50jFEvliu+j2x48CowSxx+b8n3b2rAyU7eKCCwY9iBVrwBA\nxIy0Yk2jxYEkinGkXmzM2ejl\n-----END PRIVATE KEY-----\n",
+  "client_email": "learning-agent-service@basaltlearningagent.iam.gserviceaccount.com",
+  "client_id": "100195889606761507262",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/learning-agent-service%40basaltlearningagent.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
