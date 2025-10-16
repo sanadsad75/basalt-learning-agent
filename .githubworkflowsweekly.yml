@@ -1,0 +1,19 @@
+name: Weekly Learning Plan
+on:
+  schedule:
+    - cron: "0 7 * * 1"   # Every Monday 7 AM UTC
+  workflow_dispatch:
+
+jobs:
+  generate_plan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python agent.py
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
